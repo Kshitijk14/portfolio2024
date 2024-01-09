@@ -15,6 +15,7 @@ import {
   Badge,
   Link,
   Center,
+  Flex,
 } from "@chakra-ui/react";
 
 import { Fade } from "react-reveal";
@@ -95,9 +96,13 @@ export default function Projects({ color }) {
               </Fade>
             ))}
           </Stack>
-          <Text color={"gray.600"} fontSize={"xl"} px={4}>
-            Other Projects
-          </Text>
+          <Flex align='center' position='relative' padding='2'>
+            <Divider flex='1' />
+              <Text color='gray.600' fontSize='xl' px={4}>
+                Other Projects
+              </Text>
+            <Divider flex='1' />
+          </Flex>
           <Center px={4}>
             <ButtonGroup variant="outline">
               <Button
