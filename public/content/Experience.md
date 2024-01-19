@@ -1,6 +1,6 @@
-## TwinIOT (SyntHeim)
+## SyntHeim (Radian Arc)
 - *Software Developer Intern* | Jan'24 - Present
-- ![logo512](assets/experience/TwinIOT.png)
+- ![logo512](assets/experience/SyntHeim_logo.png)
 - Tags: Work
 - Badges:
   - Internship [blue]
