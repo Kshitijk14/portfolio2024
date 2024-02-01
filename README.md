@@ -2,6 +2,8 @@
 
 This portfolio is built using React.js and Chakra UI. It allows you to quickly create and customize your portfolio website using markdown files.
 
+* https://app.netlify.com/sites/kshitij-chaturvedi/overview
+
 ## Getting Started
 
 To get started with development, you can use the following commands:
