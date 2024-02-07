@@ -23,6 +23,7 @@
     "react-reveal": "^1.2.2",
     "react-scripts": "5.0.1",
     "remarkable": "^2.0.1",
+    "typescript": "^5.3.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -48,5 +49,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@types/node": "^20.11.5",
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18"
   }
 }
