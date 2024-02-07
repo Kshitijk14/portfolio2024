@@ -8,6 +8,7 @@ A Cloudburst Prediction System powered by cutting-edge machine learning and deep
   - Django [green]
   - Python [yellow]
 - Buttons:
+  - View [https://cloudy-cloudburst-prediction.netlify.app/]
   - GitHub [https://github.com/Kshitijk14/cloud-burst]
 
 ## Teck-IT
