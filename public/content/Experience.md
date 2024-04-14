@@ -1,3 +1,13 @@
+## UNILANCE (Uniford)
+- *Backend Dev* | April'24 - Present
+- ![logo512](assets/experience/unifordorg_logo.png)
+- Tags: Work
+- Badges:
+  - Next JS [black]
+- List Items:
+  - Developing and optimizing the back-end infrastructure using Next.js, supporting a platform that enables users to list, sell, and discover digital products and services.
+  - Integrating blockchain technology to ensure secure, efficient transactions within the marketplace, as well as leveraging various ML algorithms and AI automations.
+
 ## SyntHeim (Radian Arc)
 - *Software Developer Intern* | Jan'24 - Present
 - ![logo512](assets/experience/SyntHeim_logo.png)
