@@ -3,11 +3,12 @@
 - ![logo512](assets/experience/SyntHeim_logo.png)
 - Tags: Work
 - Badges:
-  - Internship [blue]
-  - Present [green] 
+  - NLP [green]
+  - AI/ML [blue]
+  - React Native [black] 
 - List Items:
-  - Engaged in the development of cutting-edge IoT solutions, focusing on the flagship product, ADAPT.
-  - Developing a health-focused gamified social media application using React Native, MongoDB, Firebase, and PostgreSQL.
+  - Engaged in the development of a health-focused social media app with React Native, OpenAi, NLP, and AI/ML.
+  - Specializing in NLP and ML, I focus on AI-enabled chatbot development for advanced, personalized, and multilingual conversational experiences.
 
 ## E-Cell ADGITM
 - *Management Head* | Aug'23 - Oct'23

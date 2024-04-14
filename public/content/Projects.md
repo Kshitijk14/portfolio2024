@@ -3,10 +3,10 @@ A Cloudburst Prediction System powered by cutting-edge machine learning and deep
 - ![600x200](assets\projects\CloudY.png)
 - Tags: M.L.
 - Badges: 
-  - Next 13 [black]
+  - Next Js [black]
   - Tailwind [blue]
-  - Django [green]
   - Python [yellow]
+  - AI/ML [blue]
 - Buttons:
   - View [https://cloudy-cloudburst-prediction.netlify.app/]
   - GitHub [https://github.com/Kshitijk14/cloud-burst]
@@ -21,8 +21,18 @@ An online team-building platform for projects taken up by various Universities/ 
   - Django [green]
   - Web Sockets [pink]
   - Web RTC [orange]
+  - AI/ML [blue]
 - Buttons:
   - GitHub [https://github.com/Kshitijk14/teckIt]
+
+## Foodie's Heaven
+A recipe blog website with user authentication.
+- ![600x200](assets\projects\FoodiesHeaven.png)
+- Tags: WebDev
+- Badges:
+  - Django [green]
+- Buttons:
+  - GitHub [https://github.com/Kshitijk14/learning-django/tree/main/basics]
 
 ## Video Calling App
 An online video calling application similar to zoom/google meets.
@@ -36,12 +46,3 @@ An online video calling application similar to zoom/google meets.
 - Buttons:
   - View [https://kshitij-video-call-app.netlify.app/] 
   - GitHub [https://github.com/Kshitijk14/video-call-app]
-
-## Foodie's Heaven
-A recipe blog website with user authentication.
-- ![600x200](assets\projects\FoodiesHeaven.png)
-- Tags: WebDev
-- Badges:
-  - Django [green]
-- Buttons:
-  - GitHub [https://github.com/Kshitijk14/learning-django/tree/main/basics]

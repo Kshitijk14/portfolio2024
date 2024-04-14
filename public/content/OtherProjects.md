@@ -55,3 +55,11 @@ Landing page for an hospital.
   - CSS [purple]
 - Buttons:
   - Repo [https://github.com/Kshitijk14/hopitalManagement-website]
+
+## Next Authentication
+Next app with user auth using next-auth with Email & OTP verification.
+- Tags: WebDev
+- Badges:
+  - Next Js [black]
+- Buttons:
+  - Repo [https://github.com/Kshitijk14/next-auth]
