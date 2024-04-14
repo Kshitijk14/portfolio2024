@@ -24,6 +24,19 @@ An online team-building platform for projects taken up by various Universities/ 
 - Buttons:
   - GitHub [https://github.com/Kshitijk14/teckIt]
 
+## Video Calling App
+An online video calling application similar to zoom/google meets.
+- ![600x200](assets\projects\VideoCallapp.png)
+- Tags: WebDev
+- Badges:
+  - Next Js [black]
+  - Tailwind [blue]
+  - Web Sockets [pink]
+  - Web RTC [orange]
+- Buttons:
+  - View [https://kshitij-video-call-app.netlify.app/] 
+  - GitHub [https://github.com/Kshitijk14/video-call-app]
+
 ## Foodie's Heaven
 A recipe blog website with user authentication.
 - ![600x200](assets\projects\FoodiesHeaven.png)
