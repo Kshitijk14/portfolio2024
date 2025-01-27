@@ -18,6 +18,13 @@ export default function Header({ color }) {
     const contactSection = document.querySelector("#contact");
     contactSection.scrollIntoView({ behavior: "smooth" });
   };
+  const resume = () => {
+    window.open(
+      "assets/resume/Resume_Kshitij_Chaturvedi.pdf", 
+      "_blank",
+      "noreferrer,noopener"
+    );
+  };
   const linkedin = () => {
     window.open(
                 `${profile.linkedin}`,
@@ -25,6 +32,7 @@ export default function Header({ color }) {
                 "noreferrer,noopener"
               );
   };
+
   return (
     <>
       <Heading>
@@ -73,17 +81,17 @@ export default function Header({ color }) {
               _hover={{
                 bg: `${color}.500`,
               }}
-              onClick={linkedin}
+              onClick={resume}
             >
-              Let's connect!
+              My Resume
             </Button>
             <Button
               variant={"link"}
               colorScheme={"blue"}
               size={"sm"}
-              onClick={scrollToContact}
+              onClick={linkedin}
             >
-              Contact Me
+              Let's connect!
             </Button>
             <Box>
               <Icon
