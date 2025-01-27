@@ -14,10 +14,6 @@ import ProfileArray from "./ProfileArray";
 
 export default function Header({ color }) {
   const profile = ProfileArray();
-  const scrollToContact = () => {
-    const contactSection = document.querySelector("#contact");
-    contactSection.scrollIntoView({ behavior: "smooth" });
-  };
   const resume = () => {
     window.open(
       "https://drive.google.com/file/d/1xZ1bILcJ8H6LaqzlAu6h5QB6ABubkVy1/view?usp=drive_link", 
