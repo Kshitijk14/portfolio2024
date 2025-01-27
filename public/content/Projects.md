@@ -1,48 +1,55 @@
 ## CloudY
-A Cloudburst Prediction System powered by cutting-edge machine learning and deep learning algorithms.
+An Early Cloudburst Prediction System powered by cutting-edge machine learning algorithms.
 - ![600x200](assets\projects\CloudY.png)
 - Tags: M.L.
 - Badges: 
-  - Next Js [black]
-  - Tailwind [blue]
   - Python [yellow]
-  - AI/ML [blue]
+  - Time Series Forecasting [orange]
+  - scikit-learn [pink]
+  - tensorflow [blue]
+  - DVC [green]
+  - Flask [black]
+  - Docker [green]
 - Buttons:
-  - View [https://cloudy-cloudburst-prediction.netlify.app/]
-  - GitHub [https://github.com/Kshitijk14/cloud-burst]
+  - View [https://github.com/Kshitijk14/cloud-burst]
+  - GitHub [https://github.com/Kshitijk14/model-cloud-burst]
 
-## Teck-IT
-An online team-building platform for projects taken up by various Universities/ Colleges where contributors and mentors can collaboratively work.
-- ![600x200](assets\projects\TeckIt.png)
-- Tags: WebDev
-- Badges:
-  - React Js [black]
-  - Tailwind [blue]
-  - Django [green]
-  - Web Sockets [pink]
-  - Web RTC [orange]
-  - AI/ML [blue]
+## Chicken Disease (Coccidiosis) Classification
+To classify chicken diseases, specifically focusing on coccidiosis detection through image analysis.
+- ![600x200](assets\projects\Chicken_disease.png)
+- Tags: M.L.
+- Badges: 
+  - Python [yellow]
+  - Deep Learning [blue]
+  - tensorflow [yellow]
+  - DVC [black]
+  - Flask [black]
+  - Docker [green]
 - Buttons:
-  - GitHub [https://github.com/Kshitijk14/teckIt]
+  - GitHub [https://github.com/Kshitijk14/coccidiosis-disease-classification]
 
-## Foodie's Heaven
-A recipe blog website with user authentication.
-- ![600x200](assets\projects\FoodiesHeaven.png)
-- Tags: WebDev
-- Badges:
-  - Django [green]
+## Real-Time Emotion Detection with Streamlit
+A real-time emotion detection using a webcam or uploaded video, utilizing a pre-trained emotion detection model built using TensorFlow/Keras and OpenCV for face detection. The model recognizes emotions such as happiness, sadness, surprise, etc., from faces detected in the video stream.
+- ![600x200](assets\projects\Facial_emotion.png)
+- Tags: M.L.
+- Badges: 
+  - Python [yellow]
+  - OpenCV [blue]
+  - tensorflow [yellow]
+  - Streamlit [black]
 - Buttons:
-  - GitHub [https://github.com/Kshitijk14/learning-django/tree/main/basics]
+  - GitHub [https://github.com/Kshitijk14/facial-emtion-recognition-model]
 
-## Video Calling App
-An online video calling application similar to zoom/google meets.
-- ![600x200](assets\projects\VideoCallapp.png)
-- Tags: WebDev
+## LinkedIn Auto Jobs Applier with AI
+An intelligent automation tool for streamlining the job application process on LinkedIn, leveraging AI to help job seekers efficiently apply to relevant positions.
+- ![600x200](assets/projects/AIHawk.png)
+- Tags: Automation, AI
 - Badges:
-  - Next Js [black]
-  - Tailwind [blue]
-  - Web Sockets [pink]
-  - Web RTC [orange]
+  - Open Source [orange]
+  - Python [yellow]
+  - AI [blue]
+  - LangChain [blue]
+  - Selenium [purple]
 - Buttons:
-  - View [https://kshitij-video-call-app.netlify.app/] 
-  - GitHub [https://github.com/Kshitijk14/video-call-app]
+  - View [https://github.com/Kshitijk14/linkedIn_auto_jobs_applier_with_AI]
+  - GitHub [https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI]

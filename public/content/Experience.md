@@ -1,24 +1,35 @@
-## UNILANCE (Uniford)
-- *Backend Dev* | April'24 - Present
-- ![logo512](assets/experience/unifordorg_logo.png)
-- Tags: Work
-- Badges:
-  - Next JS [black]
-- List Items:
-  - Developing and optimizing the back-end infrastructure using Next.js, supporting a platform that enables users to list, sell, and discover digital products and services.
-  - Integrating blockchain technology to ensure secure, efficient transactions within the marketplace, as well as leveraging various ML algorithms and AI automations.
-
 ## SyntHeim (Radian Arc)
-- *Software Developer Intern* | Jan'24 - Present
+- *Software Developer Intern* | Feb'24 - Aug'24
 - ![logo512](assets/experience/SyntHeim_logo.png)
 - Tags: Work
 - Badges:
   - NLP [green]
-  - AI/ML [blue]
-  - React Native [black] 
+  - OpenCV [yellow]
+  - Machine Learning [blue]
+  - React Native [black]
 - List Items:
-  - Engaged in the development of a health-focused social media app with React Native, OpenAi, NLP, and AI/ML.
-  - Specializing in NLP and ML, I focus on AI-enabled chatbot development for advanced, personalized, and multilingual conversational experiences.
+  - Contributed to developing an AI-driven health application using ML, DL, Computer Vision, and NLP.
+  - Led a team of 8 developers to create a virtual AI assistant for real-time personalized and multilingual experiences.
+
+## Creative AI Solution - Nynexa Marketplace
+- *Backend Dev* | April'24 - May'24
+- ![logo512](assets/experience/uniford_logo.png)
+- Tags: Work
+- Badges:
+  - Next JS [black]
+  - MongoDB [green]
+  - Tailwind CSS [blue]
+- List Items:
+  - Developed initial backend architecture for an AI/Web3 SaaS product, boosting system efficiency by 20% using AI dev tools.
+  - Established a scalable backend foundation with NextJS, Tailwind CSS, and MongoDB.
+
+## BVP HEX Hackathon
+- *Hackathon Judge* | Nov'24
+- ![logo512](assets/experience/bvp-hex_logo.webp)
+- Tags: Achievements
+- Badges:
+  - Hack [blue]
+- List Items:
 
 ## E-Cell ADGITM
 - *Management Head* | Aug'23 - Oct'23
@@ -27,7 +38,7 @@
 - Badges:
   - Club [black]
 - List Items:
-  - Led a team of 10 colleagues as the Management Head at E-Cell, ADGITM, organizing various successful events, including Traders Tussle.
+  - Led a team of 15 colleagues as the Management Head at E-Cell, ADGITM, organizing various successful events, including Traders Tussle, B-Pitch & WEB3 summit.
   - Earlier: Senior Coordinator in Web3 Department
 
 ## GSSOC
@@ -37,5 +48,5 @@
 - Badges:
   - Open Source [yellow]
 - List Items:
-  - Contributed to open-source projects during GSSOC, focusing on frontend development primarily using JavaScript, React, and Tailwind CSS.
-  - Delivered 9 contributions during the early stages of a project, accelerating its development and functionality.
+  - Contributed to open-source projects during GSSOC, focusing on frontend development primarily using ReactJS, Tailwind CSS & MongoDB.
+  - Delivered 15 contributions during the early stages of a web focused project, accelerating its development and functionality.
