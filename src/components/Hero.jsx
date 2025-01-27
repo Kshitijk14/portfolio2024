@@ -20,7 +20,7 @@ export default function Header({ color }) {
   };
   const resume = () => {
     window.open(
-      "assets/resume/Resume_Kshitij_Chaturvedi.pdf", 
+      "https://drive.google.com/file/d/1xZ1bILcJ8H6LaqzlAu6h5QB6ABubkVy1/view?usp=drive_link", 
       "_blank",
       "noreferrer,noopener"
     );
@@ -81,17 +81,17 @@ export default function Header({ color }) {
               _hover={{
                 bg: `${color}.500`,
               }}
-              onClick={resume}
+              onClick={linkedin}
             >
-              My Resume
+              Let's connect!
             </Button>
             <Button
               variant={"link"}
               colorScheme={"blue"}
               size={"sm"}
-              onClick={linkedin}
+              onClick={resume}
             >
-              Let's connect!
+              My Resume
             </Button>
             <Box>
               <Icon
