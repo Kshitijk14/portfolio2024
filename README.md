@@ -45,4 +45,4 @@ You can customize the design of your website by modifying the `theme.js` file lo
 
 ## Credits
 
-All major design credits go to: Eldora Boo [https://www.linkedin.com/in/eldoraboo/]
+All major code & design credits: Eldora Boo [https://www.linkedin.com/in/eldoraboo/]
