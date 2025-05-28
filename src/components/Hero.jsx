@@ -14,9 +14,13 @@ import ProfileArray from "./ProfileArray";
 
 export default function Header({ color }) {
   const profile = ProfileArray();
+  // const scrollToContact = () => {
+  //   const contactSection = document.querySelector("#contact");
+  //   contactSection.scrollIntoView({ behavior: "smooth" });
+  // };
   const resume = () => {
     window.open(
-      "https://drive.google.com/file/d/1xZ1bILcJ8H6LaqzlAu6h5QB6ABubkVy1/view?usp=drive_link", 
+      "https://kshitijj.netlify.app/", 
       "_blank",
       "noreferrer,noopener"
     );
@@ -38,7 +42,7 @@ export default function Header({ color }) {
         />
       </Heading>
 
-      <Container maxW={"3xl"} id="hero">
+      <Container maxW={"4xl"} id="hero">
         <Stack
           as={Box}
           textAlign={"center"}
@@ -77,17 +81,17 @@ export default function Header({ color }) {
               _hover={{
                 bg: `${color}.500`,
               }}
-              onClick={linkedin}
+              onClick={resume}
             >
-              Let's connect!
+              Updated Portfolio
             </Button>
             <Button
               variant={"link"}
               colorScheme={"blue"}
               size={"sm"}
-              onClick={resume}
+              onClick={linkedin}
             >
-              My Resume
+              LinkedIn Profile
             </Button>
             <Box>
               <Icon

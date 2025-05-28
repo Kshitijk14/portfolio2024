@@ -1,6 +1,6 @@
 # Portfolio using React.js and Chakra UI
 
-This portfolio is built using React.js and Chakra UI. It allows you to create and customize your portfolio website quickly using markdown files.
+This portfolio is built using React.js and Chakra UI. It allows you to quickly create and customize your portfolio website using markdown files.
 
 * https://app.netlify.com/sites/kshitij-chaturvedi/overview
 
@@ -30,7 +30,7 @@ After running `yarn start`, your website should be available at `http://localhos
 
 ## Colour Theme
 
-You can choose from 10 different colors provided by Chakra UI. Modify the `color` variable in the `App.js` file located in the `src` folder.
+You can choose from 10 different colours provided by Chakra UI. Modify the `color` variable in the `App.js` file located in the `src` folder.
 
 ```
 // Available Colours:
@@ -45,6 +45,6 @@ You can customize the design of your website by modifying the `theme.js` file lo
 
 ## Credits
 
-All major code & design credits: Eldora Boo [https://www.linkedin.com/in/eldoraboo/]
+All major design credits go to: Eldora Boo [https://www.linkedin.com/in/eldoraboo/]
 
 Forked from: Original Repo [https://github.com/eldoraboo/portable-portfolio]

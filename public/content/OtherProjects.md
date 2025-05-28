@@ -1,6 +1,17 @@
+## Real-Time Emotion Detection with Streamlit
+A real-time emotion detection using a webcam or uploaded video, utilizing a pre-trained emotion detection model built using TensorFlow/Keras and OpenCV for face detection. The model recognizes emotions such as happiness, sadness, surprise, etc., from faces detected in the video stream.
+- Tags: ML
+- Badges: 
+  - Python [yellow]
+  - OpenCV [blue]
+  - tensorflow [yellow]
+  - Streamlit [black]
+- Buttons:
+  - Repo [https://github.com/Kshitijk14/facial-emtion-recognition-model]
+
 ## NSE Historical Stock Price Analysis
 A comprehensive analysis of historical stock price data from India's National Stock Exchange (NSE), focusing on correlation analysis, time series decomposition, and anomaly detection.
-- Tags: Data Analytics
+- Tags: Analytics
 - Badges:
   - Python [yellow]
   - Data Analysis [blue]
@@ -70,7 +81,7 @@ Project focused on fine-tuning language models using transformers.
 
 ## Plant Disease Classification
 CNN-based plant disease classification system with research paper contributions.
-- Tags: ML, Research
+- Tags: ML
 - Badges:
   - TensorFlow [orange]
   - FastAPI [green]
@@ -80,7 +91,7 @@ CNN-based plant disease classification system with research paper contributions.
 
 ## Animal Disease Recognition
 Advanced disease recognition system for animals using ResNet-50v2 architecture.
-- Tags: ML, Research
+- Tags: ML
 - Badges:
   - TensorFlow [orange]
   - ResNet [blue]

@@ -1,7 +1,23 @@
-## CloudY
+## Updated Portfolio 2025
+
+- ![600x200](assets\projects\t3_stack.png)
+- Tags: ML
+- Badges: 
+  - Next.js [black]
+  - T3 Stack [pink]
+  - Tailwind CSS [blue]
+  - NextAuth.js [blue]
+  - Prisma [yellow]
+  - Drizzle [yellow]
+  - tRPC [green]
+- Buttons:
+  - View [https://github.com/Kshitijk14/portfolio]
+  - GitHub [https://kshitijj.netlify.app/]
+
+## CloudY [Research Paper]
 An Early Cloudburst Prediction System powered by cutting-edge machine learning algorithms.
 - ![600x200](assets\projects\CloudY.png)
-- Tags: M.L.
+- Tags: ML
 - Badges: 
   - Python [yellow]
   - Time Series Forecasting [orange]
@@ -14,33 +30,7 @@ An Early Cloudburst Prediction System powered by cutting-edge machine learning a
   - View [https://github.com/Kshitijk14/cloud-burst]
   - GitHub [https://github.com/Kshitijk14/model-cloud-burst]
 
-## Chicken Disease (Coccidiosis) Classification
-To classify chicken diseases, specifically focusing on coccidiosis detection through image analysis.
-- ![600x200](assets\projects\Chicken_disease.png)
-- Tags: M.L.
-- Badges: 
-  - Python [yellow]
-  - Deep Learning [blue]
-  - tensorflow [yellow]
-  - DVC [black]
-  - Flask [black]
-  - Docker [green]
-- Buttons:
-  - GitHub [https://github.com/Kshitijk14/coccidiosis-disease-classification]
-
-## Real-Time Emotion Detection with Streamlit
-A real-time emotion detection using a webcam or uploaded video, utilizing a pre-trained emotion detection model built using TensorFlow/Keras and OpenCV for face detection. The model recognizes emotions such as happiness, sadness, surprise, etc., from faces detected in the video stream.
-- ![600x200](assets\projects\Facial_emotion.png)
-- Tags: M.L.
-- Badges: 
-  - Python [yellow]
-  - OpenCV [blue]
-  - tensorflow [yellow]
-  - Streamlit [black]
-- Buttons:
-  - GitHub [https://github.com/Kshitijk14/facial-emtion-recognition-model]
-
-## LinkedIn Auto Jobs Applier with AI
+## LinkedIn Auto Jobs Applier with AI [In work]
 An intelligent automation tool for streamlining the job application process on LinkedIn, leveraging AI to help job seekers efficiently apply to relevant positions.
 - ![600x200](assets/projects/AIHawk.png)
 - Tags: Automation, AI
@@ -53,3 +43,17 @@ An intelligent automation tool for streamlining the job application process on L
 - Buttons:
   - View [https://github.com/Kshitijk14/linkedIn_auto_jobs_applier_with_AI]
   - GitHub [https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI]
+
+## Chicken Disease (Coccidiosis) Classification
+To classify chicken diseases, specifically focusing on coccidiosis detection through image analysis.
+- ![600x200](assets\projects\Chicken_disease.png)
+- Tags: ML
+- Badges: 
+  - Python [yellow]
+  - Deep Learning [blue]
+  - tensorflow [yellow]
+  - DVC [black]
+  - Flask [black]
+  - Docker [green]
+- Buttons:
+  - GitHub [https://github.com/Kshitijk14/coccidiosis-disease-classification]
